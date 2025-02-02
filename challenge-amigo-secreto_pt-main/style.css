@@ -2,7 +2,7 @@
     --color-primary: #ce2eee;
     --color-secondary: #FFF9EB;
     --color-tertiary: #ce2eee;
-    --color-button: #ce2eee;;
+    --color-button: #ce2eee;
     --color-button-hover: #ce2eee;;
     --color-text: #FFFFFF;
     --color-white: #FFFFFF;
@@ -128,7 +128,7 @@ button {
 /* Listas */
 ul {
     list-style-type: none;
-    color: var(--color-text);
+    color: #000;
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #ce2eee;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
